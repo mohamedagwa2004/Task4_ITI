@@ -7,7 +7,7 @@ class MyAnimeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'آخر التحديثات',
+      title: 'Latest Search',
       home: AnimeUpdatesScreen(),
       debugShowCheckedModeBanner: false,
     );
